@@ -1,4 +1,4 @@
-some // some change only on A (and another change)
+some // some change only on A (change on branch)
 fake
 api
 file
